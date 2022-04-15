@@ -24,7 +24,7 @@
             android:id="@+id/txt_alpukat"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Alpukat"
+            android:text="Alpuka"
             android:textColor="@color/black"
             android:textSize="20dp"
             />
